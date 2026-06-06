@@ -77,7 +77,7 @@ TrackWise/
 
 **Farnam Asgarzadeh**  
 High school student | Python developer  
-📍 Najafabad, Iran
+📍 Isfahan, Iran
 
 ---
 
