@@ -21,7 +21,10 @@
 
 ## 📸 Screenshot
 
-> _Add a screenshot of your app here_
+<img width="1197" height="856" alt="Screenshot 2026-06-07 014124" src="https://github.com/user-attachments/assets/8271557c-299e-4b57-84d0-5938ec2a8bfe" />
+<img width="730" height="961" alt="Screenshot 2026-06-07 014054" src="https://github.com/user-attachments/assets/fb47630a-9e13-4faf-a2b2-2a4b25d72d2b" />
+
+
 
 ---
 
